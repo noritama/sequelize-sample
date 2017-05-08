@@ -1,0 +1,21 @@
+{
+  "name": "equelize-sample",
+  "version": "0.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noritama/sequelize-sample"
+  },
+  "engines": {
+    "node": ">=7.9.0"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "mysql": "^2.13.0",
+    "sequelize": "^3.30.4"
+  },
+  "devDependencies": {}
+}
